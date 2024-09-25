@@ -40,11 +40,5 @@ module "ebs_backup" {
 | Name           | Description                        |
 |----------------|------------------------------------|
 | dlm_policy_id  | ID of the DLM lifecycle policy     |
-| iam_role_arn   | ARN of the IAM role                |
 
-## Outputs
 
-| Name           | Description                        |
-|----------------|------------------------------------|
-| dlm_policy_id  | ID of the DLM lifecycle policy     |
-| iam_role_arn   | ARN of the IAM role                |
